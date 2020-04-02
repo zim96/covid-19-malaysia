@@ -27,5 +27,8 @@ I cannot guarantee full accuracy of the data.
 * The data on 14/3/2020 that provide the increase in cases by states are not consistent with the data given the day before. Ex: MOH provided 105 cases but only 92 cases in the next day. As such, numbers of cases on 13/3/2020 is calculated from the data the day before.
 * On 16-18/3/2020, data of WP Kuala Lumpur is combined with WP Putrajaya.
 
+## Visualisations
+Visualisations made in Jupyter Notebook, a graph of COVID-19's trajectory by plotting new cases in the last `n` days against the total confirmed cases. An animation is also made to demonstrate the growth of cases over time.
+
 ## License
 This covid-19-malaysia data is made available under the Public Domain Dedication and License v1.0 whose full text can be found at: http://www.opendatacommons.org/licenses/pddl/1.0/
